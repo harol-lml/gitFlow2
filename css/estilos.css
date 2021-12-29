@@ -1,0 +1,10 @@
+body{
+    color: darkred;
+    text-align: center;
+    font-family: "Arial";
+}
+
+.container{
+    background-color: aquamarine;
+    padding: 10px;
+}
